@@ -1,3 +1,3 @@
-## _ppn
+## PPN & PPn BM
 
 Submodule PPN
